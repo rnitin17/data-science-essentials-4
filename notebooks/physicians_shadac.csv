@@ -1,0 +1,96 @@
+FIPS,state_x,county_x,primary_care_physicians,population,county_y,state_y,urban,residents_per_pcp,shadac_category
+47001,Tennessee,Anderson,39.0,76061,Anderson County,TENNESSEE,Urban,1950.2820512820513,moderately inadequate
+47003,Tennessee,Bedford,15.0,48292,Bedford County,TENNESSEE,Rural,3219.4666666666667,moderately inadequate
+47005,Tennessee,Benton,3.0,16140,Benton County,TENNESSEE,Rural,5380.0,low inadequate
+47007,Tennessee,Bledsoe,1.0,14836,Bledsoe County,TENNESSEE,Rural,14836.0,low inadequate
+47009,Tennessee,Blount,90.0,129927,Blount County,TENNESSEE,Urban,1443.6333333333334,adequate
+47011,Tennessee,Bradley,55.0,105749,Bradley County,TENNESSEE,Urban,1922.709090909091,moderately inadequate
+47013,Tennessee,Campbell,19.0,39797,Campbell County,TENNESSEE,Rural,2094.5789473684213,moderately inadequate
+47015,Tennessee,Cannon,3.0,14178,Cannon County,TENNESSEE,Urban,4726.0,low inadequate
+47017,Tennessee,Carroll,12.0,27886,Carroll County,TENNESSEE,Rural,2323.8333333333335,moderately inadequate
+47019,Tennessee,Carter,22.0,56433,Carter County,TENNESSEE,Urban,2565.1363636363635,moderately inadequate
+47021,Tennessee,Cheatham,23.0,40181,Cheatham County,TENNESSEE,Urban,1747.0,moderately inadequate
+47023,Tennessee,Chester,4.0,17190,Chester County,TENNESSEE,Urban,4297.5,low inadequate
+47025,Tennessee,Claiborne,23.0,31732,Claiborne County,TENNESSEE,Rural,1379.6521739130435,adequate
+47027,Tennessee,Clay,2.0,7654,Clay County,TENNESSEE,Rural,3827.0,low inadequate
+47029,Tennessee,Cocke,16.0,35552,Cocke County,TENNESSEE,Rural,2222.0,moderately inadequate
+47031,Tennessee,Coffee,37.0,55209,Coffee County,TENNESSEE,Rural,1492.1351351351352,adequate
+47033,Tennessee,Crockett,0.0,14399,Crockett County,TENNESSEE,Rural,inf,low inadequate
+47035,Tennessee,Cumberland,40.0,59216,Cumberland County,TENNESSEE,Rural,1480.4,adequate
+47037,Tennessee,Davidson,665.0,687488,Davidson County,TENNESSEE,Urban,1033.8165413533834,adequate
+47039,Tennessee,Decatur,4.0,11686,Decatur County,TENNESSEE,Rural,2921.5,moderately inadequate
+47041,Tennessee,DeKalb,9.0,19847,DeKalb County,TENNESSEE,Rural,2205.222222222222,moderately inadequate
+47043,Tennessee,Dickson,19.0,52680,Dickson County,TENNESSEE,Urban,2772.6315789473683,moderately inadequate
+47045,Tennessee,Dyer,14.0,37416,Dyer County,TENNESSEE,Rural,2672.5714285714284,moderately inadequate
+47047,Tennessee,Fayette,15.0,40164,Fayette County,TENNESSEE,Urban,2677.6,moderately inadequate
+47049,Tennessee,Fentress,10.0,18213,Fentress County,TENNESSEE,Rural,1821.3,moderately inadequate
+47051,Tennessee,Franklin,27.0,41725,Franklin County,TENNESSEE,Rural,1545.3703703703704,moderately inadequate
+47053,Tennessee,Gibson,21.0,49228,Gibson County,TENNESSEE,Rural,2344.190476190476,moderately inadequate
+47055,Tennessee,Giles,11.0,29285,Giles County,TENNESSEE,Rural,2662.2727272727275,moderately inadequate
+47057,Tennessee,Grainger,5.0,23101,Grainger County,TENNESSEE,Urban,4620.2,low inadequate
+47059,Tennessee,Greene,39.0,68834,Greene County,TENNESSEE,Rural,1764.974358974359,moderately inadequate
+47061,Tennessee,Grundy,0.0,13344,Grundy County,TENNESSEE,Rural,inf,low inadequate
+47063,Tennessee,Hamblen,38.0,64132,Hamblen County,TENNESSEE,Urban,1687.6842105263158,moderately inadequate
+47065,Tennessee,Hamilton,403.0,360919,Hamilton County,TENNESSEE,Urban,895.5806451612904,adequate
+47067,Tennessee,Hancock,1.0,6587,Hancock County,TENNESSEE,Rural,6587.0,low inadequate
+47069,Tennessee,Hardeman,4.0,25443,Hardeman County,TENNESSEE,Rural,6360.75,low inadequate
+47071,Tennessee,Hardin,13.0,25715,Hardin County,TENNESSEE,Rural,1978.076923076923,moderately inadequate
+47073,Tennessee,Hawkins,15.0,56611,Hawkins County,TENNESSEE,Urban,3774.0666666666666,low inadequate
+47075,Tennessee,Haywood,5.0,17623,Haywood County,TENNESSEE,Rural,3524.6,low inadequate
+47077,Tennessee,Henderson,7.0,27977,Henderson County,TENNESSEE,Rural,3996.714285714286,low inadequate
+47079,Tennessee,Henry,22.0,32284,Henry County,TENNESSEE,Rural,1467.4545454545455,adequate
+47081,Tennessee,Hickman,5.0,24813,Hickman County,TENNESSEE,Urban,4962.6,low inadequate
+47083,Tennessee,Houston,2.0,8164,Houston County,TENNESSEE,Rural,4082.0,low inadequate
+47085,Tennessee,Humphreys,5.0,18435,Humphreys County,TENNESSEE,Rural,3687.0,low inadequate
+47087,Tennessee,Jackson,2.0,11682,Jackson County,TENNESSEE,Rural,5841.0,low inadequate
+47089,Tennessee,Jefferson,21.0,53679,Jefferson County,TENNESSEE,Urban,2556.1428571428573,moderately inadequate
+47091,Tennessee,Johnson,6.0,17753,Johnson County,TENNESSEE,Rural,2958.8333333333335,moderately inadequate
+47093,Tennessee,Knox,520.0,461104,Knox County,TENNESSEE,Urban,886.7384615384616,adequate
+47095,Tennessee,Lake,0.0,7401,Lake County,TENNESSEE,Rural,inf,low inadequate
+47097,Tennessee,Lauderdale,2.0,25989,Lauderdale County,TENNESSEE,Rural,12994.5,low inadequate
+47099,Tennessee,Lawrence,18.0,43390,Lawrence County,TENNESSEE,Rural,2410.5555555555557,moderately inadequate
+47101,Tennessee,Lewis,2.0,12027,Lewis County,TENNESSEE,Rural,6013.5,low inadequate
+47103,Tennessee,Lincoln,18.0,33924,Lincoln County,TENNESSEE,Rural,1884.6666666666667,moderately inadequate
+47105,Tennessee,Loudon,30.0,52340,Loudon County,TENNESSEE,Urban,1744.6666666666667,moderately inadequate
+47107,Tennessee,McMinn,26.0,53053,McMinn County,TENNESSEE,Rural,2040.5,moderately inadequate
+47109,Tennessee,McNairy,9.0,25844,McNairy County,TENNESSEE,Rural,2871.5555555555557,moderately inadequate
+47111,Tennessee,Macon,4.0,23842,Macon County,TENNESSEE,Urban,5960.5,low inadequate
+47113,Tennessee,Madison,129.0,97625,Madison County,TENNESSEE,Urban,756.7829457364342,adequate
+47115,Tennessee,Marion,12.0,28538,Marion County,TENNESSEE,Urban,2378.1666666666665,moderately inadequate
+47117,Tennessee,Marshall,5.0,32965,Marshall County,TENNESSEE,Rural,6593.0,low inadequate
+47119,Tennessee,Maury,53.0,91976,Maury County,TENNESSEE,Rural,1735.3962264150944,moderately inadequate
+47121,Tennessee,Meigs,6.0,12104,Meigs County,TENNESSEE,Rural,2017.3333333333333,moderately inadequate
+47123,Tennessee,Monroe,9.0,46064,Monroe County,TENNESSEE,Rural,5118.222222222223,low inadequate
+47125,Tennessee,Montgomery,82.0,200180,Montgomery County,TENNESSEE,Urban,2441.2195121951218,moderately inadequate
+47127,Tennessee,Moore,1.0,6378,Moore County,TENNESSEE,Rural,6378.0,low inadequate
+47129,Tennessee,Morgan,3.0,21545,Morgan County,TENNESSEE,Rural,7181.666666666667,low inadequate
+47131,Tennessee,Obion,14.0,30365,Obion County,TENNESSEE,Rural,2168.9285714285716,moderately inadequate
+47133,Tennessee,Overton,12.0,22068,Overton County,TENNESSEE,Rural,1839.0,moderately inadequate
+47135,Tennessee,Perry,2.0,7962,Perry County,TENNESSEE,Rural,3981.0,low inadequate
+47137,Tennessee,Pickett,2.0,5079,Pickett County,TENNESSEE,Rural,2539.5,moderately inadequate
+47139,Tennessee,Polk,8.0,16814,Polk County,TENNESSEE,Urban,2101.75,moderately inadequate
+47141,Tennessee,Putnam,52.0,77447,Putnam County,TENNESSEE,Rural,1489.3653846153845,adequate
+47143,Tennessee,Rhea,12.0,32719,Rhea County,TENNESSEE,Rural,2726.5833333333335,moderately inadequate
+47145,Tennessee,Roane,18.0,53075,Roane County,TENNESSEE,Rural,2948.6111111111113,moderately inadequate
+47147,Tennessee,Robertson,26.0,70280,Robertson County,TENNESSEE,Urban,2703.076923076923,moderately inadequate
+47149,Tennessee,Rutherford,137.0,315815,Rutherford County,TENNESSEE,Urban,2305.21897810219,moderately inadequate
+47151,Tennessee,Scott,8.0,21969,Scott County,TENNESSEE,Rural,2746.125,moderately inadequate
+47153,Tennessee,Sequatchie,5.0,14816,Sequatchie County,TENNESSEE,Urban,2963.2,moderately inadequate
+47155,Tennessee,Sevier,38.0,97068,Sevier County,TENNESSEE,Rural,2554.4210526315787,moderately inadequate
+47157,Tennessee,Shelby,806.0,936374,Shelby County,TENNESSEE,Urban,1161.7543424317619,adequate
+47159,Tennessee,Smith,9.0,19740,Smith County,TENNESSEE,Urban,2193.3333333333335,moderately inadequate
+47161,Tennessee,Stewart,1.0,13427,Stewart County,TENNESSEE,Urban,13427.0,low inadequate
+47163,Tennessee,Sullivan,199.0,157050,Sullivan County,TENNESSEE,Urban,789.1959798994975,adequate
+47165,Tennessee,Sumner,91.0,183437,Sumner County,TENNESSEE,Urban,2015.7912087912089,moderately inadequate
+47167,Tennessee,Tipton,17.0,61447,Tipton County,TENNESSEE,Urban,3614.529411764706,low inadequate
+47169,Tennessee,Trousdale,2.0,10231,Trousdale County,TENNESSEE,Urban,5115.5,low inadequate
+47171,Tennessee,Unicoi,6.0,17811,Unicoi County,TENNESSEE,Urban,2968.5,moderately inadequate
+47173,Tennessee,Union,3.0,19488,Union County,TENNESSEE,Urban,6496.0,low inadequate
+47175,Tennessee,Van Buren,0.0,5760,Van Buren County,TENNESSEE,Rural,inf,low inadequate
+47177,Tennessee,Warren,21.0,40702,Warren County,TENNESSEE,Rural,1938.1904761904761,moderately inadequate
+47179,Tennessee,Washington,226.0,127805,Washington County,TENNESSEE,Urban,565.5088495575221,adequate
+47181,Tennessee,Wayne,5.0,16693,Wayne County,TENNESSEE,Rural,3338.6,moderately inadequate
+47183,Tennessee,Weakley,18.0,33510,Weakley County,TENNESSEE,Rural,1861.6666666666667,moderately inadequate
+47185,Tennessee,White,9.0,26800,White County,TENNESSEE,Rural,2977.777777777778,moderately inadequate
+47187,Tennessee,Williamson,338.0,225389,Williamson County,TENNESSEE,Urban,666.8313609467456,adequate
+47189,Tennessee,Wilson,43.0,136666,Wilson County,TENNESSEE,Urban,3178.279069767442,moderately inadequate
